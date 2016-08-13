@@ -1,2 +1,2 @@
 # angular-sample
-AngularJS Sample Project
+my AngularJS Sample Project
